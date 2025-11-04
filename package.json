@@ -1,0 +1,21 @@
+{
+    "name": "ready-crud",
+    "version": "1.0.3",
+    "description": "Generate Express CRUD controllers and routes automatically from your Mongoose model schema.",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "ready-crud": "./bin/index.js"
+    },
+    "keywords": [
+        "crud",
+        "express",
+        "mongoose",
+        "generator",
+        "auto-route",
+        "backend",
+        "cli"
+    ],
+    "author": "Abdullah",
+    "license": "MIT"
+}
